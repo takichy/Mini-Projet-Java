@@ -1,3 +1,3 @@
-![alt text](https://raw.githubusercontent.com/takichy/Mini-Projet-Java/master/path/to/image.png)
+![alt text](https://raw.githubusercontent.com/takichy/Mini-Projet-Java/master/./to/image.png)
 
 # Mini-Projet-Java
